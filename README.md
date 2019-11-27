@@ -1,7 +1,7 @@
 # test_01
 Aprendiendo a generar repositorios en github
 # Sesión 12: Práctica github
-## Sindy Gisela Torreglosa Hernandez
+## SindyTorreglosa 
 
 En este documento se encuentra la práctica de la sesión de **github**
 
@@ -11,6 +11,7 @@ En este documento se encuentra la práctica de la sesión de **github**
 + Carpetas
 
 *En esta parte se practica como editar el branch
+
 *Branch y luego readme-edits, lo selecciono y lo edito en el lápiz
 
 
