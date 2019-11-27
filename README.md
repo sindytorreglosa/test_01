@@ -10,9 +10,9 @@ En este documento se encuentra la práctica de la sesión de **github**
 + Scripts
 + Carpetas
 
-*En esta parte se practica como editar el branch
+En esta parte se practica como editar *el branch*
 
-*Branch y luego readme-edits, lo selecciono y lo edito en el lápiz
+*Branch y luego *readme-edits*, lo selecciono y lo edito en el lápiz
 
 
 
